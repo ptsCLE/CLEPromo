@@ -344,6 +344,16 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	padding-top:5%;
 }
 
+.safe{
+	background-color: greenyellow;
+}
+
+.emergency{
+	background-color: pink;
+}
+
+
+
 /*ads*/
 
 #ads {
@@ -550,7 +560,7 @@ footer .copyright a {
 
 }
 .border{
-	height:300px;
+	height:260px;
 }
 
 }
@@ -564,7 +574,7 @@ footer .copyright a {
 }
 
 .border{
-	height:480px;
+	height:450px;
 }
 }
 @media (max-width:400px) {
@@ -585,6 +595,6 @@ footer .copyright a {
 
 }
 .border{
-	height:480px;
+	height:450px;
 }
 }
