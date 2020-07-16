@@ -338,7 +338,11 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 .boldFont{
 	font-weight:bold;
 }
+/*covid 19*/
 
+#cov19{
+	padding-top:5%;
+}
 
 /*ads*/
 
