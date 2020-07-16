@@ -249,40 +249,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 }
 
 
-
-/* Order Section*/
-
-#cov19{
-	margin-top:80px;
-	margin-bottom:200px;
-}
-
-.redStar:before {
-    content: '*';
-    color: red;
-    font-size: 18px;
-}
-
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-}
-
-
-
-
-
-
 /* Style the tab */
-
-
-.fa-star{
-	font-size:120%;
-}
 .tab {
   overflow: hidden;
   width:40%;
