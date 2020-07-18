@@ -323,21 +323,21 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 
 /*ads*/
 
-#ads {
+#promo {
 	background-color: rgb(226, 248, 26);
 	padding-top:100px;
 	padding-bottom: 100px;
 }
 
-#ads .container {
+#promo .container {
 	width: 100%;
 	padding: 10px;
 	margin: 10px;
 }
-#ads .title {
+#promo .title {
 	padding: 100px 60px 60px 60px;
 }
-#ads .bg-blue {
+#promo .bg-blue {
 	background-color: lightblue;
 	color: #ffffff;
 	height:600px;
@@ -348,7 +348,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	height:600px;
 }
 
-#ads .fa {
+#promo .fa {
 	color: blueviolet;
 	cursor: pointer;
 	font-size: 30px;
@@ -359,7 +359,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	transition: all 0.4s ease-in-out;
 	margin-top: 10px;
 }
-#ads .fa:hover {
+#promo .fa:hover {
 	background-color: #ffffff;
 	border-radius: 50%;
 	color: #303030;

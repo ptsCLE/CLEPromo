@@ -44,8 +44,8 @@ $(function(){
         $(".navbar-collapse").collapse('hide');
     });
 
-  // --------- PORTFOLIO IMAGE ----- //
-  $('#portfolio a').nivoLightbox({
+  // --------- Promo IMAGE ----- //
+  $('#promo a').nivoLightbox({
         effect: 'fadeScale',
     });
 
