@@ -346,6 +346,20 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	padding-top: 60px;
 }
 
+#medical h2,
+h3{
+	font-family:"隶书";
+	}
+#medicla h2{
+	font-size:60px;
+}
+#medicla h3{
+	font-size:80px;
+}
+#medical p{
+	font-weight: bolder;
+}
+
 /*ads*/
 
 #promo {
