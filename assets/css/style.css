@@ -356,6 +356,10 @@ h3{
 #medicla h3{
 	font-size:80px;
 }
+#medical h4{
+	color:red;
+	font-weight:bolder;
+}
 #medical p{
 	font-weight: bolder;
 }
