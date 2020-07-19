@@ -320,6 +320,31 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 }
 
 
+/*Medical Section*/
+#medical {
+	background: url('../images/16.png') 100% 0 fixed;;
+	padding-top:100px;
+	padding-bottom: 100px;
+}
+
+.medImg{
+	width:220px;
+	padding: 10px;
+}
+
+
+
+#medical .med-des {
+	background-color: #eb5424;
+	color: #ffffff;
+	padding: 20px 12px;
+	position: relative;
+}
+#medical img {
+	max-width: 100%;
+	height: auto;
+	padding-top: 60px;
+}
 
 /*ads*/
 
